@@ -24,7 +24,7 @@ A tourist budget planning web application designed to estimate travel expenses f
 
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL.
 
-### 2. Agro Assist
+### 2. AgriAdvise AI
 An AI-based agricultural decision-support project concept focused on crop recommendations and helping farmers make informed agricultural decisions.
 
 **Planned areas:** Crop recommendation, yield prediction, weather integration and agricultural insights.
